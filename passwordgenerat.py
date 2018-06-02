@@ -40,7 +40,6 @@ class Application(Frame):
 
 
 #root.geometry changes the frame/window size.
-#keep everything behind the root.mainloop() function!!
 #You can change the name of the window down below under root.title
 #root.configure will change the background color of the created application.
 root = Tk()
